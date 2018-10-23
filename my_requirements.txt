@@ -37,3 +37,4 @@ Werkzeug
 XlsxWriter
 xlwt
 xlrd
+gspread
